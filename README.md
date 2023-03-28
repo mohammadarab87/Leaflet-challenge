@@ -12,6 +12,9 @@ The data can be accessed by visiting the ***USGS GeoJSON Feed page*** .
 
 ## Visualization
 
+![Screenshot 2023-03-28 093608](https://user-images.githubusercontent.com/113273722/228257656-7bdaecdf-2cf4-4ac5-887b-7098111142a9.png)
+
+
 I will use Leaflet to create a map that plots all the earthquakes from the selected dataset based on their longitude and latitude
 
 The data markers will reflect the magnitude of the earthquake by their size, and the depth of the earthquake by color.
